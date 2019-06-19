@@ -12,8 +12,8 @@ Courses in Machine Learning.
 
 Learning and Adaptivity
 ======
-With Anastassia Küstenmacher
+SS 2018, With Anastassia Küstenmacher
 
 Neural Networks
 ======
-With Prof. Paul Plöger and Octavio Arriaga
+WS 2018/2019 With Prof. Paul Plöger and Octavio Arriaga
