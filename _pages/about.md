@@ -14,6 +14,6 @@ I am interested in making robots be able to "see" and perceive just as humans do
 
 I regularly teach courses at the [University of Bremen](http://www.informatik.uni-bremen.de/) and teach and supervise Master Students at the Hochschule Bonn-Rhein-Sieg's [Master of Autonomous Systems Program](https://www.h-brs.de/en/inf/study/master/autonomous-systems).
 
-I received my PhD in Electrical Engineering from Heriot-Watt University, a Master of Science Degree in Autonomous Systems from [Hochschule Bonn-Rhein-Sieg](https://www.h-brs.de), and an Engineering Degree from [Universidad Tecnologica Metropolitana](http://www.utem.cl).
+I received my PhD in Electrical Engineering from Heriot-Watt University in 2019, a Master of Science Degree in Autonomous Systems from [Hochschule Bonn-Rhein-Sieg](https://www.h-brs.de) in 2014, and an Engineering Degree from [Universidad Tecnologica Metropolitana](http://www.utem.cl) in 2009.
 
 My [PhD Thesis](https://arxiv.org/abs/1905.05241) deals with the problem of detecting submerged marine debris in sonar images using neural networks. I have the strong belief that we should not be polluting our oceans and bodies of water, as it is a vital element for our survival. My PhD research was developed in the context of the Marie Skłodowska-Curie Initial Training Network [Robocademy](https://www.robocademy-project.eu) which was funded by the European Commission (FP7-PEOPLE-2013-ITN, Ref 608096).
