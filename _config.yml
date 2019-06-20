@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matias Valdenegro-Toro's Website"
+title                    : "Matias' Website"
 title_separator          : "-"
 name                     : &name "Matias Valdenegro-Toro"
 description              : &description "personal description"
