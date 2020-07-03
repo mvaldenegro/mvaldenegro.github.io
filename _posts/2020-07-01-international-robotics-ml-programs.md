@@ -10,7 +10,7 @@ tags:
 
 This is a semi-curated collection of Master and PhD programs in Robotics and Machine Learning. I am only including programs that are taught in English, as this is aimed for international applicants. I  focus on programs outside of North America, as there is plenty of information about them and they are saturated in terms of applicants. Countries in this list generally provide better visa policies than what you usually get in North America.
 
-Disclaimer: This is only a collection of information, there is no guarantee that the information is correct, as requirements or fees might have changed over time. Please always check the links in each program for the latest official information.
+**Disclaimer** This is only a collection of information, there is no guarantee that it is correct, as requirements or fees might have changed over time. Please always check the links in each program for the latest official information.
 
 # Europe
 
@@ -39,3 +39,7 @@ Disclaimer: This is only a collection of information, there is no guarantee that
  1.- University of Barcelona - [Masters in Artificial Intelligence](https://www.fib.upc.edu/en/studies/masters/master-artificial-intelligence) This is a joint master program in AI/ML/CV with the Polytechnic University of Catalonia and Rovira i Virgili University, which gives access to a wider selection of courses than a standard program. Costs are 2500 - 3300 € in total during 3 semesters, around 1100 € per semester.
 
  2.- Autonomous University of Barcelona - [Masters in Computer Vision](https://pagines.uab.cat/mcv/) Another joint master program in ML/CV with the Open University of Catalonia, Polytechnic University of Catalonia, and Pompeu Fabra University. It combines classroom and distance learning, and has ties with the Computer Vision Center of the UAB. Costs are between 2600 - 4500 € for the whole program.
+
+## Multiple Countries
+
+ 1.- [Japan-Europe Masters on Advanced Robotics](https://jemaro.ec-nantes.fr/) A joint Erasmus Mundus Master on Robotics, in collaboration with three European and one Japanese Universities. The first year is spent in Europe, while the second year and Master Thesis is done in Japan. The complete program costs 18000 € for non-EU students, but there are scholarships available. Two Master's degrees are awarded at the end.
