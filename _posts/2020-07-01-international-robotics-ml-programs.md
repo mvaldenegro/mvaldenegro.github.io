@@ -17,6 +17,7 @@ This is a semi-curated collection of Master and PhD programs in Robotics and Mac
 ## France
 
  1.- École Centrale de Nantes - [Masters in Advanced Robotics](https://www.ec-nantes.fr/study/masters/advanced-robotics-coro-imaro) and [Masters in Signal and Image Processing](https://www.ec-nantes.fr/study/masters/signal-and-image-processing-coro-sip) Masters programs in Robotics and Computer Vision, with possibilities for academic exchange with partner Universities. Costs for non-EU students are 15000 € for the complete program, and there are scholarships available.
+
  2.- University of Burgundy - [Master of Science in Computer Vision](https://www.vibot.org/msc-in-computer-vision.html) A two year program in Computer Vision and Robotics, with possibilities for academic exchange with partner Universities. Costs 1500 € per year.
 
 ## Germany
