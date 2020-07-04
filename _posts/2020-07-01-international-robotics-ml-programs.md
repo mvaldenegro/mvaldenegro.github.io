@@ -42,6 +42,8 @@ This is a semi-curated collection of Master and PhD programs in Robotics and Mac
 
   * University of Applied Sciences Ravensburg-Weingarten - [Master in Mechatronics](https://www.hs-weingarten.de/en/web/masterstudiengang-mechatronics) Masters program in the intersection of Electrical Engineering, Computer Science, and Mechanical Engineering, at a University of Applied Sciences, which is closer to practice than a regular University. Costs are 1500 € per semester and 150 € as matriculation fee.
 
+  * Hamburg University - [Master in Intelligent Adaptive Systems](https://www.master-intelligent-adaptive-systems.com/) Master program in Intelligent Systems from a Computer Science perspective, with a large selection of elective courses. There is no tuition fee, only a semester contribution.
+
 ## Switzerland
 
   * EPFL - [Master of Science in Robotics](https://www.epfl.ch/education/master/programs/robotics/) A master program specifically in Robotics, in English with some French electives. Cost around 700 CHF per semester.
