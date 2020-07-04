@@ -36,6 +36,12 @@ This is a semi-curated collection of Master and PhD programs in Robotics and Mac
 
   *  Bielefeld University - [Master of Science in Intelligent Systems](https://www.uni-bielefeld.de/(en)/technische-fakultaet/studiengaenge/MA_Intelligente_Systeme/) A Masters in general Intelligent Systems in a technical faculty with many course choices. There are exchange opportunities with the University of Bologna, and the course can be completed entirely in English. Costs are low at only matriculation fees (300 €) per semester.
 
+  * TU Dortmund - [Master in Automation and Robotics](http://www.e-technik.tu-dortmund.de/cms1/de/Lehre_Studium/Studienangebot/Master_A_R/Master_A_R_en/) and [Master in Data Science](https://www.statistik.tu-dortmund.de/2637.html) Multi-faculty programs in Robotics and Data Science with a focus in Statistical Learning at a Technical University. Varied selection of courses, and costs are low at only matriculation fees (300 €) per semester.
+
+  * University of Siegen - [Master in Mechatronics](https://www.eti.uni-siegen.de/rst/mechatronics/) Masters program in the combination of Computer Science, Mechanical Engineering, and Electrical Engineering, which serves as a good base for Robotics. Costs are low at only matriculation fees (300 €) per semester.
+
+  * University of Applied Sciences Ravensburg-Weingarten - [Master in Mechatronics](https://www.hs-weingarten.de/en/web/masterstudiengang-mechatronics) Masters program in the intersection of Electrical Engineering, Computer Science, and Mechanical Engineering, at a University of Applied Sciences, which is closer to practice than a regular University. Costs are 1500 € per semester and 150 € as matriculation fee.
+
 ## Switzerland
 
   * EPFL - [Master of Science in Robotics](https://www.epfl.ch/education/master/programs/robotics/) A master program specifically in Robotics, in English with some French electives. Cost around 700 CHF per semester.
