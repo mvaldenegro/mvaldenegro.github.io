@@ -14,6 +14,11 @@ This is a semi-curated collection of Master and PhD programs in Robotics and Mac
 
 # Europe
 
+## Austria
+  * TU Graz - [Masters in Computer Science](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computer-science/) A Masters more on the theoretical side of Computer Science, with electives in Robotics and AI/ML. They also have a dual degree program in AI/ML with the University of Ljubljana. Costs are around 750 € per semester.
+
+  * TU Vienna - [Masters in Visual Computing](https://www.tuwien.at/en/studies/studies/master-programmes/computer-science/) and [Masters in Data Science](https://tiss.tuwien.ac.at/curriculum/public/curriculum.xhtml?locale=en&windowId=034&key=67853) Master programs in Computer Science with specializations, with a large selection of courses in Computer Vision, Machine Learning, and Artificial Intelligence, and courses on soft and research skills. Costs are around 750 € per semester.
+
 ## France
 
   * École Centrale de Nantes - [Masters in Advanced Robotics](https://www.ec-nantes.fr/study/masters/advanced-robotics-coro-imaro) and [Masters in Signal and Image Processing](https://www.ec-nantes.fr/study/masters/signal-and-image-processing-coro-sip) Masters programs in Robotics and Computer Vision, with possibilities for academic exchange with partner Universities. Costs for non-EU students are 15000 € for the complete program, and there are scholarships available.
