@@ -49,6 +49,8 @@ This is a semi-curated collection of Master and PhD programs in Robotics and Mac
 
   * Hamburg University - [Master in Intelligent Adaptive Systems](https://www.master-intelligent-adaptive-systems.com/) Master program in Intelligent Systems from a Computer Science perspective, with a large selection of elective courses. There is no tuition fee, only a semester contribution.
 
+  * Saarland University - [Masters in Visual Computing](https://www.mia.uni-saarland.de/mvc/index.shtml) and [Masters in Data Science and Artificial Intelligence](https://saarland-informatics-campus.de/en/studium-studies/data-science-and-artificial-intelligence-master/) and [Masters in Computer Science](https://saarland-informatics-campus.de/en/studium-studies/master-english/) This Uni has a large computer science campus and many masters programs in fields related to AI/ML/CV and some inter-departmental collaborations such as language technology. It is a great place to do research, as there are two Max Planck Institutes (Informatics and Software Systems), one facility of the German Research Center for Artificial Intelligence (DFKI), and the Intel Visual Computing Institute, which are good candidates to do your Master Thesis and expand your network. There are no tuition fees, only a semestrer contribution of around 300 €.
+
 ## Switzerland
 
   * EPFL - [Master of Science in Robotics](https://www.epfl.ch/education/master/programs/robotics/) A master program specifically in Robotics, in English with some French electives. Cost around 700 CHF per semester.
