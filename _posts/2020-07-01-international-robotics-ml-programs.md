@@ -15,9 +15,14 @@ This is a semi-curated collection of Master and PhD programs in Robotics and Mac
 # Europe
 
 ## Austria
+
   * TU Graz - [Masters in Computer Science](https://www.tugraz.at/en/studying-and-teaching/degree-and-certificate-programmes/masters-degree-programmes/computer-science/) A Masters more on the theoretical side of Computer Science, with electives in Robotics and AI/ML. They also have a dual degree program in AI/ML with the University of Ljubljana. Costs are around 750 € per semester.
 
   * TU Vienna - [Masters in Visual Computing](https://www.tuwien.at/en/studies/studies/master-programmes/computer-science/) and [Masters in Data Science](https://tiss.tuwien.ac.at/curriculum/public/curriculum.xhtml?locale=en&windowId=034&key=67853) Master programs in Computer Science with specializations, with a large selection of courses in Computer Vision, Machine Learning, and Artificial Intelligence, and courses on soft and research skills. Costs are around 750 € per semester.
+
+## Czech Republic
+
+  * Czech Technical University - [Masters in Cybernetics and Robotics](https://kyr.fel.cvut.cz/en/masters-programme) and [Master Open Informatics](https://oi.fel.cvut.cz/en/master-program) Both programs cover specializations in AI/ML/CV and Robotics, with different perspectives, like control theory, data science, sensors, etc. Students can take multiple specializations through minor subjects. Costs are around 2500 € per semester. There are scholarships available.
 
 ## France
 
@@ -50,7 +55,6 @@ This is a semi-curated collection of Master and PhD programs in Robotics and Mac
   * Hamburg University - [Master in Intelligent Adaptive Systems](https://www.master-intelligent-adaptive-systems.com/) Master program in Intelligent Systems from a Computer Science perspective, with a large selection of elective courses. There is no tuition fee, only a semester contribution.
 
   * Saarland University - [Masters in Visual Computing](https://www.mia.uni-saarland.de/mvc/index.shtml) and [Masters in Data Science and Artificial Intelligence](https://saarland-informatics-campus.de/en/studium-studies/data-science-and-artificial-intelligence-master/) and [Masters in Computer Science](https://saarland-informatics-campus.de/en/studium-studies/master-english/) This Uni has a large computer science campus and many masters programs in fields related to AI/ML/CV and some inter-departmental collaborations such as language technology. It is a great place to do research, as there are two Max Planck Institutes (Informatics and Software Systems), one facility of the German Research Center for Artificial Intelligence (DFKI), and the Intel Visual Computing Institute, which are good candidates to do your Master Thesis and expand your network. There are no tuition fees, only a semestrer contribution of around 300 €.
-
 ## Switzerland
 
   * EPFL - [Master of Science in Robotics](https://www.epfl.ch/education/master/programs/robotics/) A master program specifically in Robotics, in English with some French electives. Cost around 700 CHF per semester.
