@@ -20,7 +20,8 @@ My [PhD Thesis](https://arxiv.org/abs/1905.05241) deals with the problem of dete
 
 ## News
 
-2021.2 - Talk about Mentoring LatinX people at the LXAI AAAI 2021 social event. Slides are available [here](https://mvaldenegro.github.io/files/LXAI-AAAI-2021-mentoring-social.pdf).
+2021.02 - Talk about Mentoring LatinX people at the LXAI AAAI 2021 social event. ([slides](https://mvaldenegro.github.io/files/LXAI-AAAI-2021-mentoring-social.pdf)).
+2021.02 - Talk at 3rd Peruvian Symposium on Deep Learning. ([talk slides](https://mvaldenegro.github.io/files/SPDL2021-incertidumbre-redes-neuronales-robotica.pdf) / [mentoring slides](https://mvaldenegro.github.io/files/SPDL2021-mentoria.pdf))
 
 ## Recent Publications
 
