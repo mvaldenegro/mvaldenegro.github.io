@@ -23,7 +23,7 @@ My [PhD Thesis](https://arxiv.org/abs/1905.05241) deals with the problem of dete
 
 2021.02 - Talk about Mentoring LatinX people at the LXAI AAAI 2021 social event. ([slides](https://mvaldenegro.github.io/files/LXAI-AAAI-2021-mentoring-social.pdf)).
 
-2021.02 - Talk at 3rd Peruvian Symposium on Deep Learning. ([talk slides](https://mvaldenegro.github.io/files/SPDL2021-incertidumbre-redes-neuronales-robotica.pdf) | [mentoring slides](https://mvaldenegro.github.io/files/SPDL2021-mentoria.pdf))
+2021.01 - Talk at 3rd Peruvian Symposium on Deep Learning. ([talk slides](https://mvaldenegro.github.io/files/SPDL2021-incertidumbre-redes-neuronales-robotica.pdf) | [mentoring slides](https://mvaldenegro.github.io/files/SPDL2021-mentoria.pdf))
 
 2020.12 - Talk on Uncertainty Quantification in Neural Networks at the Data Science Research Peru Meetup @ NeurIPS 2020. ([slides](https://mvaldenegro.github.io/files/DSRP-meetup-NeurIPS-2020-incertidumbre-redes-neuronales.pdf))
 
