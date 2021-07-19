@@ -20,6 +20,7 @@ My [PhD Thesis](https://arxiv.org/abs/1905.05241) deals with the problem of dete
 
 ## News
 2021.06 - Short course on Uncertainty in Machine Learning at the Universidad Nacional de Trujillo ([slides](https://mvaldenegro.github.io/files/UNT2021-uncertainty-neural-networks-vision-robotics.pdf))
+
 2021.05 - Talk at the Cologne AI & ML meetup ([slides](https://mvaldenegro.github.io/files/CAIML-2021-uncertainty-neural-networks-vision-robotics.pdf))
 
 2021.03 - LXCV @ CVPR 2021 Reviewer Mentoring webinar. ([slides](https://mvaldenegro.github.io/files/LXCV-CVPR-2021-review-mentoring.pdf) &#124; [video](https://www.youtube.com/watch?v=v9sCP7WIBno))
